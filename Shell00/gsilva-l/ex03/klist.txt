@@ -1,0 +1,6 @@
+Credentials cache: API:75F0B656-47F5-4B47-B328-1D4B983F36B5
+        Principal: gsilva-l@42SP.ORG.BR
+
+  Issued                Expires               Principal
+Nov 21 09:26:07 2019  Nov 28 09:26:07 2019  krbtgt/42SP.ORG.BR@42SP.ORG.BR
+Nov 21 10:16:40 2019  Nov 28 09:26:07 2019  host/vogsphere.42sp.org.br@42SP.ORG.BR
